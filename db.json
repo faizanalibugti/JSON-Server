@@ -2,15 +2,18 @@
   "todo": [
     {
       "id": 1,
-      "title": "JS"
+      "title": "JS",
+      "completed": false
     },
     {
       "id": 2,
-      "title": "Angular"
+      "title": "Angular",
+      "completed": false
     },
     {
       "id": 3,
-      "title": "RxJS"
+      "title": "RxJS",
+      "completed": false
     }
   ]
 }
